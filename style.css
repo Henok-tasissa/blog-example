@@ -1,0 +1,44 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.main-container {
+    width: 80%;
+    margin: 0px auto;
+
+}
+
+nav {
+    padding: 10px;
+}
+
+.sign-nav {
+    float: right;
+}
+
+
+.blog-container {
+    padding: 10px;
+    border: 1px solid lightgray;
+    margin: 20px;
+}
+
+.blog-container h1 {
+    font-size: 20px;
+}
+
+
+form {
+    width: 50%;
+    margin: 20px auto;
+}
+
+.author-name {
+    font-weight: bold;
+}
+
+.comment-form-container {
+    width: 50px;
+    margin: 10px !important;
+}
